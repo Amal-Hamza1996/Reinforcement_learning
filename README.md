@@ -1,6 +1,6 @@
 # Project Objective
 
-The goal of this project is to develop an application that trains an agent to reach a target using the \textbf{Q-Learning} algorithm.  
+The goal of this project is to develop an application that trains an agent to reach a target using the Q-Learning algorithm.  
 Additionally, the project integrates **human-in-the-loop reinforcement learning techniques** to accelerate the convergence of the agent.  
 
 # Key Features
